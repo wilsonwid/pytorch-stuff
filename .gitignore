@@ -130,3 +130,6 @@ dmypy.json
 
 # ignore PDFs
 *.pdf
+
+# ignore .DS_Store
+*.DS_Store
